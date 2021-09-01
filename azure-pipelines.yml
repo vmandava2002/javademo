@@ -15,4 +15,4 @@ steps:
         script: |
           javac Main.java
           
-          java Sum
+          java Main
